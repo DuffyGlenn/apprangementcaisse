@@ -1,0 +1,99 @@
+
+ 
+ #matriceD,  #matriceG,  #scene, .gauche, .droite, .tempo
+ {
+ 	border: 1px solid black;
+	/*height: auto;*/
+ }
+ 
+  #scene
+ {
+ 	border: 1px solid red;
+	/*padding:5px;*/
+	/*height: auto;*/
+ }
+ 
+ #espaceTempo
+ {
+ 	
+	/*margin : 1px;*/
+ }
+ 
+ .deplacable
+ {
+ 	background-color : rgb(0,0,255);
+ }
+ 
+.slot
+{
+	background-color : rgb(255,0,0);
+}
+ 
+/* #matriceD {
+  margin: 50px auto 0 auto;
+  background: #ddf;
+}
+ 
+/* The initial pile of unsorted cards */
+ 
+/*#matriceG {
+  margin: 0 auto;
+  background: #ffd;
+}
+ 
+#matriceD, #matriceG {
+
+  border: 1px solid black;
+  width: 300px;
+  height: 120px;
+  padding: 20px;
+  border: 2px solid #333;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -moz-box-shadow: 0 0 .3em rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 .3em rgba(0, 0, 0, .8);
+  box-shadow: 0 0 .3em rgba(0, 0, 0, .8);
+}
+ 
+/* Individual cards and slots */
+ 
+/*#matriceD div, #matriceG div {
+  float: left;
+  width: 58px;
+  height: 78px;
+  padding: 10px;
+  padding-top: 40px;
+  padding-bottom: 0;
+  border: 2px solid #333;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  margin: 0 0 0 10px;
+  background: #fff;
+}
+ 
+#matriceD div:first-child, #matriceG div:first-child {
+  margin-left: 0;
+}
+ 
+#matriceD div.hovered {
+  background: #aaa;
+}
+ 
+#matriceD div {
+  border-style: dashed;
+}
+ 
+#matriceG div {
+  background: #666;
+  color: #fff;
+  font-size: 50px;
+  text-shadow: 0 0 3px #000;
+}
+ 
+#matriceG div.ui-draggable-dragging {
+  -moz-box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
+  box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
+}*/
